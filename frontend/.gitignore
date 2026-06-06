@@ -1,0 +1,31 @@
+# Python
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database
+*.db
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Temporary frontend backup
+frontend-backup/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
