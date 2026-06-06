@@ -1,1 +1,1 @@
-# Aegis---Software-Component-Compliance-Tracker
+# Aegis - A Software-Component-Compliance-Tracker
