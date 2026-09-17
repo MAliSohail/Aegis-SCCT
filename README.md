@@ -1,4 +1,4 @@
-# Aegis-SCCT — Software Component Compliance Tracker
+# ClearTrace
 
 A desktop-oriented dashboard for tracking third-party software components across
 a project: license type, risk level, and compliance review status, with
@@ -7,6 +7,8 @@ filtering, summary metrics, and CSV export.
 Built to practice a full-stack TypeScript/React + Python API workflow: a typed
 REST backend, a React dashboard consuming it, and the state/loading/error
 handling a real internal tool needs.
+
+<img width="1920" height="1080" alt="SCCT_preview" src="https://github.com/user-attachments/assets/5e57bbfa-7eaa-46b4-996e-4e593d4afdbd" />
 
 ## Stack
 
